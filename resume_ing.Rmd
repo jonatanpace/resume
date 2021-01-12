@@ -1,0 +1,157 @@
+---
+title: "Jonatan Pace resume"
+author: Jonatan Pace
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    #css: custom_page.css
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+
+# Alinea la foto con el título */
+.aside {
+  padding-top: -0.5in;
+}
+
+.aside > p:first-of-type {
+  margin-top: -0.5in;
+}
+
+# Control de márgenes
+.pagedjs_page {
+    background: linear-gradient(to left,var(--sidebar-background-color),var(--sidebar-background-color) var(--sidebar-background-width),white var(--sidebar-background-width));
+    --pagedjs-margin-top: 0.5in;
+    --pagedjs-margin-right: 0.7in;
+    --pagedjs-margin-left: 0.05in;
+    --pagedjs-margin-bottom: 1in;
+    --pagedjs-pagebox-width: 8.5in;
+    --pagedjs-pagebox-height: 11in;
+}
+
+```
+
+
+Aside
+=====
+
+![Jonatan Pace](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contacto {#contact}
+-------------------
+
+- <i class="fa fa-envelope"></i> jonatanpace@gmail.com
+- <i class="fa fa-linkedin"></i> [Linkedin](https://linkedin.com/in/jonatanpace)
+- <i class="fa fa-whatsapp"></i> +64272338659
+
+Información Adicional {#contact}
+------------------------------------------
+
+- NIE. Y6062607M
+- Fecha de Nac. 11.07.1987
+- <i class="fa fa-globe"></i> [Proyectos de Ciencias - Blog](https://jonatanpace.github.io)
+
+
+Habilidades {#skills}
+---------------------
+
+- Experiencia en Análisis Estadístico, Análisis de Datos y Machine Learning.
+
+- Alto dominio en R, Python, Excel, SQL, Minitab y Matlab.
+
+- Conocimientos básicos de PowerBI.
+
+- Dominio intermedio/avanzado de Inglés e Italiano. Español Nativo.
+
+Disclaimer {#disclaimer}
+-------------------------
+
+Main
+=====
+
+Jonatan Pace {#title}
+----------------------
+
+### Ingeniero Industrial 
+
+<div style="text-align: justify">
+Actualmente estoy buscando una posición como **Programador de Producción o Analista de Datos** dentro del area de producción o logística.
+Después de algunos años en lo que me centré en mejorar mis habilidades personales y al aprendizaje de idiomas me encuentro muy entusiasmado en retomar mi profesión. El 2020 fue un año en el que elegí seguir estudiando y desarrollando mi capacidad analítica incorporando nuevas herramientas para el análisis de datos y análisis predictivo, dos áreas que me apasionan y en la que he realizado varios proyectos que están documentados en mi blog personal.
+</div>
+
+Educación {data-icon=graduation-cap}
+-------------------------------------------------------
+
+### Universidad Nacional de Rosario - FCEIA
+
+Ingeniero Industrial
+
+ARG
+
+2016
+
+Tesis: Mejora del sistema de planificación y control de la producción en la fabricación de máquinas agrícolas.
+
+### Universidad de Buenos Aires - FIUBA
+
+Curso de posgrado en Ciencia de Datos y Big Data
+
+ARG
+
+2020
+
+Ganadores del proyecto final: Modelo de clasificación de machine learning para predecir qué clientes comprarán un producto bancario.
+
+### Universidad Tecnológica Nacional
+
+Diplomatura en Business Intelligence
+
+ARG
+
+2020
+
+
+Experiencia {data-icon=suitcase}
+---------------------------------
+
+### Planificador y Analista de Producción
+
+Fexa SRL. - Extrusión de perfiles de aluminio.
+
+ARG
+
+03.2015 - 03.2017
+
+- Planificación periódica de producción (Make-To-Stock y Make-To-Order) teniendo en cuenta las restricciones de las máquinas, fechas de entrega esperadas y objetivos de rotación de inventarios.
+- Secuenciamiento de la planta de pintura teniendo en cuenta las restricciones de los equipos, el stock disponible y las prioridades de los clientes.
+- Control de actividades de producción en constante colaboración con Producción, Ventas y Despacho para resolver inconvenientes en las entregas y satisfacer necesidades específicas de los clientes.
+- Planificación de los despachos de productos terminados.
+- Administración del principal cliente en cuanto a volumen de ventas.
+
+### Analista de Gestión de Calidad
+
+De Grande SRL. - Fabricación de maquinaria agrícolas
+
+ARG
+
+07.2014 - 03.2015
+
+Como parte del equipo de calidad, nuestra tarea consistía en implementar, mantener y mejorar el sistema de gestión de calidad de acuerdo a las normas ISO 9000. Así como también investigar, documentar y resolver problemas de calidad.
+
+### Viaje, Estudio y Trabajo en el Extranjero
+
+N/A
+
+ITA - ESP - NZ
+
+04.2017 - 03.2020
+
+- Voluntario en varios proyectos en Italia y España (2017).
+- Repartidor en Correos Express, Palma de Mallorca (2018)
+- Curso de Inglés y trabajos temporales, Nueva Zelanda (2019/2020).
+
